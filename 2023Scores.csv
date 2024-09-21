@@ -1,0 +1,176 @@
+detrWeek,Date,Team,Score,Opponent,OpponentScore,HomeorAway
+Week 1,09/07/2023,Detroit Lions,21,Kansas City Chiefs,20,Away
+Week 2,09/17/2023,Detroit Lions,31,Seattle Seahawks,37,Home
+Week 3,09/24/2023,Detroit Lions,20,Atlanta Falcons,6,Home
+Week 4,09/28/2023,Detroit Lions,34,Green Bay Packers,20,Away
+Week 1,09/10/2023,Tampa Bay Buccaneers,20,Minnesota Vikings,17,Away
+Week 2,09/17/2023,Tampa Bay Buccaneers,27,Chicago Bears,17,Home
+Week 3,09/25/2023,Tampa Bay Buccaneers,11,Philadelphia Eagles,25,Home
+Week 4,10/01/2023,Tampa Bay Buccaneers,26,New Orleans Saints,9,Away
+Week 1,09/10/2023,Tennessee Titans,15,New Orleans Saints,16,Away
+Week 2,09/17/2023,Tennessee Titans,27,Los Angeles Chargers,24,Home
+Week 3,09/24/2023,Tennessee Titans,3,Cleveland Browns,27,Away
+Week 4,10/01/2023,Tennessee Titans,27,Cincinnati Bengals,3,Home
+Week 1,09/10/2023,Carolina Panthers,10,Atlanta Falcons,24,Away
+Week 2,09/18/2023,Carolina Panthers,17,New Orleans Saints,20,Home
+Week 3,09/24/2023,Carolina Panthers,27,Seattle Seahawks,37,Away
+Week 4,10/01/2023,Carolina Panthers,13,Minnesota Vikings,21,Home
+Week 1,09/10/2023,Houston Texans,9,Baltimore Ravens,25,Away
+Week 2,09/17/2023,Houston Texans,20,Indianapolis Colts,31,Home
+Week 3,09/24/2023,Houston Texans,37,Jacksonville Jaguars,17,Away
+Week 4,10/01/2023,Houston Texans,30,Pittsburgh Steelers,6,Home
+Week 1,09/10/2023,San Francisco 49ers,30,Pittsburgh Steelers,7,Away
+Week 2,09/17/2023,San Francisco 49ers,30,Los Angeles Rams,23,Away
+Week 3,09/21/2023,San Francisco 49ers,30,New York Giants,12,Home
+Week 4,10/01/2023,San Francisco 49ers,35,Arizona Cardinals,16,Home
+Week 1,09/10/2023,Arizona Cardinals,16,Washington Commanders,20,Away
+Week 2,09/17/2023,Arizona Cardinals,28,New York Giants,31,Home
+Week 3,09/24/2023,Arizona Cardinals,28,Dallas Cowboys,16,Home
+Week 4,10/01/2023,Arizona Cardinals,16,San Francisco 49ers,35,Away
+Week 1,09/10/2023,Cincinnati Bengals,3,Cleveland Browns,24,Away
+Week 2,09/17/2023,Cincinnati Bengals,24,Baltimore Ravens,27,Home
+Week 3,09/25/2023,Cincinnati Bengals,19,Los Angeles Rams,16,Home
+Week 4,10/01/2023,Cincinnati Bengals,3,Tennessee Titans,27,Away
+Week 1,09/10/2023,Jacksonville Jaguars,31,Indianapolis Colts,21,Away
+Week 2,09/17/2023,Jacksonville Jaguars,9,Kansas City Chiefs,17,Home
+Week 3,09/24/2023,Jacksonville Jaguars,17,Houston Texans,37,Home
+Week 4,10/01/2023,Jacksonville Jaguars,23,Atlanta Falcons,7,Home
+Week 1,09/10/2023,Miami Dolphins,36,Los Angeles Chargers,34,Away
+Week 2,09/17/2023,Miami Dolphins,24,New England Patriots,17,Away
+Week 3,09/24/2023,Miami Dolphins,70,Denver Broncos,20,Home
+Week 4,10/01/2023,Miami Dolphins,20,Buffalo Bills,48,Away
+Week 1,09/10/2023,Los Angeles Rams,30,Seattle Seahawks,13,Away
+Week 2,09/17/2023,Los Angeles Rams,23,San Francisco 49ers,30,Home
+Week 3,09/25/2023,Los Angeles Rams,16,Cincinnati Bengals,19,Away
+Week 4,10/01/2023,Los Angeles Rams,29,Indianapolis Colts,23,Away
+Week 1,09/10/2023,Las Vegas Raiders,17,Denver Broncos,16,Away
+Week 2,09/17/2023,Las Vegas Raiders,10,Buffalo Bills,38,Away
+Week 3,09/24/2023,Las Vegas Raiders,18,Pittsburgh Steelers,23,Home
+Week 4,10/01/2023,Las Vegas Raiders,17,Los Angeles Chargers,24,Away
+Week 1,09/10/2023,Green Bay Packers,38,Chicago Bears,20,Away
+Week 2,09/17/2023,Green Bay Packers,24,Atlanta Falcons,25,Away
+Week 3,09/24/2023,Green Bay Packers,18,New Orleans Saints,17,Home
+Week 4,09/28/2023,Green Bay Packers,20,Detroit Lions,34,Home
+Week 1,09/10/2023,Philadelphia Eagles,25,New England Patriots,20,Away
+Week 2,09/14/2023,Philadelphia Eagles,34,Minnesota Vikings,28,Home
+Week 3,09/25/2023,Philadelphia Eagles,25,Tampa Bay Buccaneers,11,Away
+Week 4,10/01/2023,Philadelphia Eagles,34,Washington Commanders,31,Home
+Week 1,09/10/2023,Dallas Cowboys,40,New York Giants,0,Away
+Week 2,09/17/2023,Dallas Cowboys,30,New York Jets,10,Home
+Week 3,09/24/2023,Dallas Cowboys,16,Arizona Cardinals,28,Away
+Week 4,10/01/2023,Dallas Cowboys,38,New England Patriots,3,Home
+Week 1,09/11/2023,Buffalo Bills,16,New York Jets,22,Away
+Week 2,09/17/2023,Buffalo Bills,38,Las Vegas Raiders,10,Home
+Week 3,09/24/2023,Buffalo Bills,37,Washington Commanders,3,Away
+Week 4,10/01/2023,Buffalo Bills,48,Miami Dolphins,20,Home
+Week 1,09/10/2023,New England Patriots,20,Philadelphia Eagles,25,Home
+Week 2,09/17/2023,New England Patriots,17,Miami Dolphins,24,Home
+Week 3,09/24/2023,New England Patriots,15,New York Jets,10,Away
+Week 4,10/01/2023,New England Patriots,3,Dallas Cowboys,38,Away
+Week 1,09/11/2023,New York Jets,22,Buffalo Bills,16,Home
+Week 2,09/17/2023,New York Jets,10,Dallas Cowboys,30,Away
+Week 3,09/24/2023,New York Jets,10,New England Patriots,15,Home
+Week 4,10/01/2023,New York Jets,20,Kansas City Chiefs,23,Home
+Week 1,09/07/2023,Kansas City Chiefs,20,Detroit Lions,21,Home
+Week 2,09/17/2023,Kansas City Chiefs,17,Jacksonville Jaguars,9,Away
+Week 3,09/24/2023,Kansas City Chiefs,41,Chicago Bears,10,Home
+Week 4,10/01/2023,Kansas City Chiefs,23,New York Jets,20,Away
+Week 1,09/10/2023,Chicago Bears,20,Green Bay Packers,38,Home
+Week 2,09/17/2023,Chicago Bears,17,Tampa Bay Buccaneers,27,Away
+Week 3,09/24/2023,Chicago Bears,10,Kansas City Chiefs,41,Away
+Week 4,10/01/2023,Chicago Bears,28,Denver Broncos,31,Home
+Week 1,09/10/2023,Denver Broncos,16,Las Vegas Raiders,17,Home
+Week 2,09/17/2023,Denver Broncos,33,Washington Commanders,35,Home
+Week 3,09/24/2023,Denver Broncos,20,Miami Dolphins,70,Away
+Week 4,10/01/2023,Denver Broncos,31,Chicago Bears,28,Away
+Week 1,09/10/2023,Washington Commanders,20,Arizona Cardinals,16,Home
+Week 2,09/17/2023,Washington Commanders,35,Denver Broncos,33,Away
+Week 3,09/24/2023,Washington Commanders,3,Buffalo Bills,37,Home
+Week 4,10/01/2023,Washington Commanders,31,Philadelphia Eagles,34,Away
+Week 1,09/10/2023,Cleveland Browns,24,Cincinnati Bengals,3,Home
+Week 2,09/18/2023,Cleveland Browns,22,Pittsburgh Steelers,26,Away
+Week 3,09/24/2023,Cleveland Browns,27,Tennessee Titans,3,Home
+Week 4,10/01/2023,Cleveland Browns,3,Baltimore Ravens,28,Home
+Week 1,09/10/2023,Los Angeles Chargers,34,Miami Dolphins,36,Home
+Week 2,09/17/2023,Los Angeles Chargers,24,Tennessee Titans,27,Away
+Week 3,09/24/2023,Los Angeles Chargers,28,Minnesota Vikings,24,Away
+Week 4,10/01/2023,Los Angeles Chargers,24,Las Vegas Raiders,17,Home
+Week 1,09/10/2023,Minnesota Vikings,17,Tampa Bay Buccaneers,20,Home
+Week 2,09/14/2023,Minnesota Vikings,28,Philadelphia Eagles,34,Away
+Week 3,09/24/2023,Minnesota Vikings,24,Los Angeles Chargers,28,Home
+Week 4,10/01/2023,Minnesota Vikings,21,Carolina Panthers,13,Away
+Week 1,09/10/2023,Indianapolis Colts,21,Jacksonville Jaguars,31,Home
+Week 2,09/17/2023,Indianapolis Colts,31,Houston Texans,20,Away
+Week 3,09/24/2023,Indianapolis Colts,22,Baltimore Ravens,19,Away
+Week 4,10/01/2023,Indianapolis Colts,23,Los Angeles Rams,29,Home
+Week 1,09/10/2023,Seattle Seahawks,13,Los Angeles Rams,30,Home
+Week 2,09/17/2023,Seattle Seahawks,37,Detroit Lions,31,Away
+Week 3,09/24/2023,Seattle Seahawks,37,Carolina Panthers,27,Home
+Week 4,10/02/2023,Seattle Seahawks,24,New York Giants,3,Away
+Week 1,09/10/2023,Pittsburgh Steelers,7,San Francisco 49ers,30,Home
+Week 2,09/18/2023,Pittsburgh Steelers,26,Cleveland Browns,22,Home
+Week 3,09/24/2023,Pittsburgh Steelers,23,Las Vegas Raiders,18,Away
+Week 4,10/01/2023,Pittsburgh Steelers,6,Houston Texans,30,Away
+Week 1,09/10/2023,Baltimore Ravens,25,Houston Texans,9,Home
+Week 2,09/17/2023,Baltimore Ravens,27,Cincinnati Bengals,24,Away
+Week 3,09/24/2023,Baltimore Ravens,19,Indianapolis Colts,22,Home
+Week 4,10/01/2023,Baltimore Ravens,28,Cleveland Browns,3,Away
+Week 1,09/10/2023,New Orleans Saints,16,Tennessee Titans,15,Home
+Week 2,09/18/2023,New Orleans Saints,20,Carolina Panthers,17,Away
+Week 3,09/24/2023,New Orleans Saints,17,Green Bay Packers,18,Away
+Week 4,10/01/2023,New Orleans Saints,9,Tampa Bay Buccaneers,26,Home
+Week 1,09/10/2023,Atlanta Falcons,24,Carolina Panthers,10,Home
+Week 2,09/17/2023,Atlanta Falcons,25,Green Bay Packers,24,Home
+Week 3,09/24/2023,Atlanta Falcons,6,Detroit Lions,20,Away
+Week 4,10/01/2023,Atlanta Falcons,7,Jacksonville Jaguars,23,Away
+Week 1,09/10/2023,New York Giants,0,Dallas Cowboys,40,Home
+Week 2,09/17/2023,New York Giants,31,Arizona Cardinals,28,Away
+Week 3,09/21/2023,New York Giants,12,San Francisco 49ers,30,Away
+Week 4,10/02/2023,New York Giants,3,Seattle Seahawks,24,Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
